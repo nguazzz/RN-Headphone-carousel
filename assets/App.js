@@ -154,7 +154,7 @@ const Pagination = ({ scrollX }) => {
           styles.paginationIndicator,
           {
             position: "absolute",
-            // backgroundColor: "red",
+            // backgroundColor: 'red',
             transform: [{ translateX }],
           },
         ]}
